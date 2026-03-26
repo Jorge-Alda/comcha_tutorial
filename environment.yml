@@ -1,0 +1,20 @@
+name: comcha-tutorial
+dependencies:
+  - python = 3.12
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - xgboost
+  - shap
+  - optuna
+  - scikit-learn
+  - tl2cgen
+  - treelite
+  - ipykernel
+  - emcee
+  - corner
+  - pip
+  - pip:
+    - git+https://github.com/alp-aca/alp-aca.git
+    - git+https://github.com/mmschlk/shapiq.git

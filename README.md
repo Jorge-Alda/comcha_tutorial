@@ -1,6 +1,8 @@
 # comcha_tutorial
 Tutorials for the 4th COMCHA school
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jorge-Alda/comcha_tutorial/HEAD)
+
 ## Contents
 
 * [0: Data preparation](00_data_preparation.ipynb)

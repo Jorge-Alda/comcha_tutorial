@@ -1,7 +1,10 @@
-# comcha_tutorial
-Tutorials for the 4th COMCHA school
+# COMCHA Tutorial: global fits
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jorge-Alda/comcha_tutorial/HEAD)
+Tutorials for the session "ML for global fits" of 4th COMCHA school, celebrated in Zaragoza (Spain), 8-15 April 2026.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jorge-Alda/comcha_tutorial/HEAD) <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1etqMbw4TCSk40aqtzzRUcsuL3QFnBpDt?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Contents
 

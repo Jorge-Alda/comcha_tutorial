@@ -1,4 +1,4 @@
-name: comcha-tutorial
+name: comcha-tutorial-globalfits
 dependencies:
   - python = 3.12
   - numpy
@@ -15,7 +15,11 @@ dependencies:
   - emcee
   - corner
   - supertree
+  - tensorflow==2.18.0
+  - tf-keras
+  - setuptools==81.0.0
+  - gpflow
   - pip
   - pip:
-    - git+https://github.com/alp-aca/alp-aca.git
+    - alpaca-alps==1.2rc1
     - git+https://github.com/mmschlk/shapiq.git

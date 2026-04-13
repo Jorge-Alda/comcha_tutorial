@@ -1,6 +1,11 @@
 name: comcha-tutorial-globalfits
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
 dependencies:
   - python = 3.12
+  - jupyterlab
   - numpy
   - scipy
   - pandas

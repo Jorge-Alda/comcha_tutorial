@@ -1,0 +1,24 @@
+.reveal-viewport, .reveal, .reveal .slides {
+    background-color: #1a1a2e !important;
+    background: #1a1a2e !important;
+}
+
+.reveal .jp-OutputArea .jp-RenderedMarkdown p {
+    color: black !important;
+}
+
+.reveal .jp-OutputArea .jp-RenderedMarkdown li {
+    color: black !important;
+}
+
+.reveal h1, .reveal h2, .reveal h3 { color: teal !important; }
+
+.reveal .jp-OutputArea-output {
+    background-color: #dddddd !important;
+    color: #ff0000 !important;
+}
+
+.reveal p, .reveal li { color: #cccccc !important; }
+
+.reveal .controls button { color: teal !important; }
+

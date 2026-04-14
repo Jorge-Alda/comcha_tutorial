@@ -27,4 +27,5 @@ dependencies:
   - pip
   - pip:
     - alpaca-alps==1.2rc1
+    - jupyterlab-rise
     - git+https://github.com/mmschlk/shapiq.git
